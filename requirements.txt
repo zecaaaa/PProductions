@@ -1,0 +1,45 @@
+# Dependências principais do projeto
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Para análise e manipulação de dados
+scipy>=1.9.0
+
+# Para notebooks Jupyter
+jupyter>=1.0.0
+jupyterlab>=3.4.0
+notebook>=6.4.0
+
+# Para processamento de texto (análise de Overview)
+nltk>=3.7
+textblob>=0.17.1
+
+# Utilitários
+tqdm>=4.64.0
+
+# Para exportação de modelos
+joblib>=1.2.0
+
+# Para análise estatística adicional
+statsmodels>=0.13.0
+
+# Para visualizações avançadas
+plotly>=5.10.0
+
+# Para processamento de datas
+python-dateutil>=2.8.2
+
+# Para encoding e preprocessamento
+category-encoders>=2.5.0
+
+# Para métricas adicionais de ML
+imbalanced-learn>=0.9.0
+
+# Para criação de pipelines
+feature-engine>=1.5.0
+
+# Para validação cruzada avançada
+scikit-optimize>=0.9.0
